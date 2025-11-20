@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="org.example.carreragrafica.RaceController"
+      spacing="15">
+
+    <padding>
+        <Insets top="10" right="10" bottom="10" left="10"/>
+    </padding>
+
+    <children>
+
+        <GridPane hgap="10" vgap="5">
+            <columnConstraints>
+                <ColumnConstraints percentWidth="20" />
+                <ColumnConstraints percentWidth="80" />
+            </columnConstraints>
+
+            <children>
+                <Label text="Zoro" GridPane.rowIndex="0" GridPane.columnIndex="0" />
+                <ProgressBar fx:id="barraZoro" GridPane.rowIndex="0" GridPane.columnIndex="1" />
+
+                <Label text="Anne" GridPane.rowIndex="1" GridPane.columnIndex="0" />
+                <ProgressBar fx:id="barraAnne" GridPane.rowIndex="1" GridPane.columnIndex="1" />
+
+                <Label text="Yuta" GridPane.rowIndex="2" GridPane.columnIndex="0" />
+                <ProgressBar fx:id="barraYuta" GridPane.rowIndex="2" GridPane.columnIndex="1" />
+
+                <Label text="Yogo" GridPane.rowIndex="3" GridPane.columnIndex="0" />
+                <ProgressBar fx:id="barraYogo" GridPane.rowIndex="3" GridPane.columnIndex="1" />
+            </children>
+        </GridPane>
+
+        <!-- Label donde aparece el podio -->
+        <Label fx:id="podioLabel" text="Corriendo carrera..." />
+
+    </children>
+
+</VBox>

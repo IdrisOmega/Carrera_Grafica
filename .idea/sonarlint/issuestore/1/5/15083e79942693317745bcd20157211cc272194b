@@ -1,0 +1,15 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•…ìÕ8õ‘Âª3J$35e17daa-b7c9-4ef9-8008-015ea255575f
+ˆ
+java:S2184"@Cast one of the operands of this addition operation to a "long".(—•Úèúÿÿÿÿ8ö‘Âª3J$9f1b9c2b-8738-457c-a238-711bc345529e
+›	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊöâM8ìéßª3J$51fe0ae0-c4a9-4675-a4de-e9f5b4d2d203
+¥	java:S116	"^Rename this field "distancia_recorrida" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŠıÿÿÿÿ8ı‘Âª3J$814a475c-b966-4907-8648-eb3f0e6bb4e6
+Ÿ	java:S116
+"XRename this field "velocidad_max" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¡ÓÓşÿÿÿÿ8ı‘Âª3J$37146166-11b7-48e2-b693-54ca5eabc400
+š	java:S116"XRename this field "velocidad_min" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÅšò8ş‘Âª3J$90ebc36b-9b11-499d-a28c-8e4ec939e98c
+¡
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8’Âª3J$7b5a5b50-8a69-4701-ba35-126cc663b095
+q
+java:S2140")Use "java.util.Random.nextInt()" instead.(—•Úèúÿÿÿÿ8‚’Âª3J$c2d94038-c1bc-43bb-9187-7c6f1f53393d
+l
+java:S2140$")Use "java.util.Random.nextInt()" instead.(Ö÷Ïì8‚’Âª3J$9f09ad51-e9f9-4c39-a261-6e899e3e55d8
